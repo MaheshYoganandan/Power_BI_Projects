@@ -1,76 +1,51 @@
+# AdventureWorks Sales Dashboard
+## Portfolio Project
 
-# SQL Project credit card analysis 
+This project was completed with the help of Maven Analytics' Power BI course, which provided valuable guidance and insights into the world of Power BI. I'm excited to share this project as part of my portfolio, demonstrating my skills in sales data analysis, visualization, and dashboard creation using Power BI.
 
-### Overview
-This project showcases my SQL skills by analyzing a credit card transaction dataset, demonstrating my proficiency in using various SQL functions to extract insights and solve problems. While the project reveals valuable information about spending habits and market trends, its primary focus is on showcasing my SQL expertise, particularly in using advanced functions like window functions, aggregate functions, and subqueries.
-## 🛠 Tools used
-SQL Server, Datawrapper, Kaggle, dbdiagram
+## Project Overview
 
-## 🎯Purpose of the Project:
+The AdventureWorks Sales Dashboard is an interactive Power BI solution designed to help the retail company, AdventureWorks, monitor and improve their sales performance. This project delivers actionable insights into sales metrics, product performance, and regional trends, allowing decision-makers to optimize sales strategies and enhance profitability.
 
-#### Objectives
-Reveal the most popular expense categories and cities with the highest spending
-Identify opportunities for businesses to target specific customer segments and optimize their marketing strategies
-Inform data-driven decisions to drive growth and customer satisfaction in the Indian market
+## Business Problem
 
-#### SQL Skills Demonstrated 
-Advanced functions:
-Window functions (ROW_NUMBER, RANK, etc.)
-Aggregate functions (SUM, AVG, etc.)
-Subqueries
-Common Table Expressions (CTEs)
-Indexing and optimization techniques
-Data analysis and visualization
-Query optimization and performance tuning
+AdventureWorks needed a comprehensive view of their sales data to identify underperforming regions, customer trends, and product categories. The goal of this dashboard was to provide a tool that allows managers to track KPIs and take data-driven actions to boost sales and resource allocation.
 
-#### Project Highlights
-Analyzed a large credit card transaction dataset to identify trends and patterns
-Utilized advanced SQL functions to extract insights and solve problems
-Demonstrated expertise in data analysis, visualization, and query optimization
-Showcased ability to inform data-driven decisions and drive business growth
-## About Dataset
-This project's data was obtained from the Kaggle Credit Card Spending Habits in India
+## Key Insights and Value Delivered
 
-To download dataset from kaggle [Click here](https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india)
+* **Revenue Monitoring**: Dynamic visualizations track total sales and revenue growth over time.
+* **Regional Sales Analysis**: Drill-down by geographic region to identify high and low-performing territories.
+* **Product Category Performance**: Analyze the best and worst-selling products to inform inventory and promotional strategies.
+* **Customer Demographics**: Gain insights into customer behavior and purchase patterns to drive targeted marketing.
 
-- This dataset provides insights into credit card transactions made in India, offering a comprehensive look at spending habits across the nation.
-- It includes variables such as gender, card type, city, and expense type, painting a detailed picture of how money is spent in India.
-- The dataset reveals top spending cities, popular expense categories, and customer preferences.
-- Researchers can uncover deeper trends in customer spending and correlations between data points, serving as invaluable business intelligence.
-- The data enables analysis of customer behavior, identification of market opportunities, and optimization of marketing strategies.
-- It provides unbiased data analysis techniques and insights into customer preferences, making it a valuable resource for researchers and businesses alike.
+## Tools and Technologies
 
-### Columns
+* **Power BI**: Used for building interactive reports and dashboards.
+* **DAX**: Employed for creating custom measures to analyze sales growth, margins, and trends.
+* **SQL**: Used for data extraction, transformation, and querying from the AdventureWorks dataset.
+* **Data Visualization**: A variety of charts (bar, line, and geographic maps) were used to present the data in a visually appealing way.
 
-| Column name | Description  |                 
-| :-------- | :------- | 
-| `City` |  The city in which the transactio tool place.|
-| `Date` |  The date  of the transaction.|
-| `Card Type` |  The date of the transaction.|
-| `Exp Type` |  The type of expense associated with the transaction.|
-| `Gender` |  The gender of the cardholder.|
-| `Amount` |  The amount of the transaction.|
+## What It Demonstrates
 
+* Expertise in sales data analysis and visualization using Power BI.
+* Proficiency in DAX for advanced data analysis, creating KPIs, and delivering business insights.
+* Ability to build user-friendly dashboards that empower stakeholders to make data-driven decisions.
+* Skills in SQL for data manipulation and integration into Power BI.
 
-### Datamodel
+## Results and Impact
 
-![Screenshot 2024-08-02 203449](https://github.com/user-attachments/assets/d7838045-3ee5-4af2-9641-ba9180727c8d)
+The dashboard helped streamline decision-making processes by providing real-time insights into sales performance, enabling more effective resource allocation, inventory management, and marketing efforts. It allowed AdventureWorks to spot sales opportunities and identify underperforming regions quickly.
 
-## Business Questions to Answer
-1. What are the top 5 cities with the highest credit card spends and their percentage contribution to the total spends?
-2. Which month had the highest credit card spend for each card type, and what was the amount spent in that month?
-3. What are the transaction details for each card type when the cumulative total spend reaches ₹1,000,000?
-4. What is the total spend for each card type, ranked in descending order?
-5. What percentage of total spend is attributed to females and males for each expense type, along with the total spend amount?
-6. Which city has the highest average spend on weekends?
-7. What is the total spend for each card type, ranked in descending order? 
-8. Which card type and expense type combination experienced the highest month-over-month growth in January 2024, and what was the percentage increase?
-9. Which card type and expense type combination experienced the highest month-over-month growth percentage in January 2024? 
-10. What are the highest and lowest expense types for each city, based on total spend?
-11. What is the total spend for each city, and how do they rank in terms of total spend?
+## Learning Outcomes
 
+Through this project, I gained hands-on experience with Power BI and developed a deeper understanding of its capabilities and potential. I learned how to:
 
+* Create interactive and dynamic dashboards
+* Use DAX to analyze sales growth, margins, and trends
+* Design effective data visualizations
+* Integrate SQL data into Power BI
+* Deliver actionable insights to stakeholders
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maheshyoganandan/)
+## Conclusion
+
+This project showcases my ability to analyze sales data, create interactive dashboards, and drive business insights using Power BI. I'm excited to continue exploring the world of Power BI and applying my skills to real-world business problems.
