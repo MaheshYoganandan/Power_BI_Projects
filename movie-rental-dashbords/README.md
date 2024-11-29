@@ -1,4 +1,6 @@
-# Movie Rental Analysis Dashboard
+# ![Movie Rental Analysis Dashboard](https://github.com/MaheshYoganandan/Power_BI_Projects/tree/main/movie-rental-dashbords)
+
+
 ## Portfolio Project
 
 ### Project Overview
