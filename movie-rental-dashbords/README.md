@@ -34,6 +34,12 @@ The movie rental business required an analysis of customer preferences, rental f
 
 The dashboard helped the business make strategic decisions related to inventory management, targeted marketing, and customer retention by highlighting key trends in rental patterns and customer preferences.
 
+## Snaps
+![Movie Rental Analysis Dashboard Screenshot](https://github.com/user-attachments/assets/beb31ede-1e85-43a9-bff0-bdffba431535)
+![Movie Rental Analysis Dashboard Screenshot](https://github.com/user-attachments/assets/db5a28fe-4184-4be7-9099-d9f6f94a5bb3)
+![Movie Rental Analysis Dashboard Screenshot](https://github.com/user-attachments/assets/acad90cc-9b81-4f5d-9c17-645152be4efb)
+![Movie Rental Analysis Dashboard Screenshot](https://github.com/user-attachments/assets/6c3da07c-76b6-45db-8b57-8b80c7b0b430)
+
 ### Additional Details
 
 * Designed a Power BI dashboard to analyze 250,000+ customer transactions for a movie rental business.
@@ -41,3 +47,4 @@ The dashboard helped the business make strategic decisions related to inventory 
 * The insights drove a 20% increase in customer retention by identifying high-value customer segments and targeting them with personalized promotions.
 * Additionally, the analysis helped reduce inventory costs by 12% by adjusting stock levels based on rental patterns and peak seasons.
 * Data extracted and prepared using SQL, ensuring optimal performance for the dashboard.
+
